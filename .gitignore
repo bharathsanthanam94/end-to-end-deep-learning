@@ -1,0 +1,4 @@
+mlflow/env/*
+mlflow/tracking/mlflow-models/mlruns/*
+mlflow/tracking/mlflow-models/imdb-dataset.csv
+mlflow/tracking/mlflow-models/vectorizer.joblib
